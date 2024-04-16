@@ -1,7 +1,8 @@
 # nopCommerce-Automation-Suite
 
 ### Video Output
-https://user-images.githubusercontent.com/29010350/204713810-80648321-7087-4cbe-894a-eb922b235799.mp4
+
+https://github.com/zafir100100/nopCommerce-Automation-Suite/assets/55599023/d6616caf-3329-45af-8308-900743447de7
 
 ## Project Scenerio:
 
@@ -85,10 +86,6 @@ Feature: Nopcommerce place order feature Test
 - Clone this project
 - hit the following command: ```mvn clean test```
 
-
 ### Report
 cucumber-report
 ![Screenshot (77)](https://github.com/zafir100100/nopCommerce-Automation-Suite/blob/master/assets/screenshots/cucumber-report.PNG)
-
-### Report Link
-https://drive.google.com/file/d/1ieXcll94QzJF5LXYMrtQ4Z57uh1F6N3M/view?usp=share_link
